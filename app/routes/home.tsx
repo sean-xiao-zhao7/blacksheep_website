@@ -1,13 +1,13 @@
+import LandingPage from "~/pages/LandPage";
 import type { Route } from "./+types/home";
-import { Welcome } from "../welcome/welcome";
 
-export function meta({}: Route.MetaArgs) {
+export function meta({ }: Route.MetaArgs) {
   return [
-    { title: "New React Router App" },
-    { name: "description", content: "Welcome to React Router!" },
+    { title: "Blacksheep" },
+    { name: "description", content: "Blacksheep connects people seeking guidance with their lives to people who can help them." },
   ];
 }
 
 export default function Home() {
-  return <Welcome />;
+  return <LandingPage />;
 }
