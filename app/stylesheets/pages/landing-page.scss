@@ -3,10 +3,10 @@
 #landing-page-container {
     background-color: colors.$main-yellow;
     color: black;
+
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 3rem 0 2rem 0;
 
     h1,
     h2,
@@ -14,35 +14,76 @@
         text-align: center;
     }
 
-    a.emphasis {
-        text-decoration: none;
-        font-size: 1.8rem;
-        color: black;
-        font-weight: bold;
-    }
-
     .intro-container {
-        margin-bottom: 2rem;
+        padding: 3rem;
+        text-align: center;
+
+        a.emphasis {
+            text-decoration: none;
+            font-size: 2rem;
+            color: black;
+            font-weight: bold;   
+            margin-top: 2rem;         
+            display: block;
+        }
     }
 
-    #videos-section-container {
-        position: relative;
-        background-color: colors.$main-orange;
-        width: 100%;
+    .section-container {
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 2rem 0;
-        border-radius: 100% 100% 0 0;
+        width: 100%;
+
+        &#videos-section-container {
+            background-color: colors.$main-orange;
+            position: relative;
+            margin-top: 7rem;
+            padding-bottom: 20rem;
+
+            #videos-items-container {
+                display: grid;
+                grid-template-columns: repeat(2, max-content);
+                grid-column-gap: 2rem;
+                z-index: 2;
+
+                video {
+                    width: 20rem;
+                    height: auto;
+                }
+            }
+
+            p {
+                font-size: 3rem;
+            }
+
+            .ellipse {
+                height: 15rem;
+                width: 100%;
+                position: absolute;
+                z-index: 1;
+
+                &#videos-section-container-top-ellipse {
+                    background-color: colors.$main-orange;
+                    border-radius: 100% 100% 0 0;
+                    top: -7rem;
+                }
+
+                &#videos-section-container-bottom-ellipse {
+                    background-color: colors.$main-yellow;
+                    border-radius: 100% 100% 0 0;
+                    bottom: 0;
+                }
+            }
+        }
+
+        &#blog-section-container {
+            background-color: colors.$main-yellow;
+
+            p {
+                font-size: 2.2rem;
+                color: white;
+            }
+        }
     }
 
-    #blog-section-container {
-        border-radius: 100% 100% 0 0;
-        background-color: colors.$main-yellow;
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding: 2rem 0;
-    }
 }

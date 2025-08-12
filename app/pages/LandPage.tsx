@@ -3,20 +3,26 @@ export default function LandingPage() {
         <div className="intro-container">
             <h1>We all need supportive community.<br />
                 If you live in the Mississauga area, get connected today!</h1>
-            {/* <a href='/learn-more' className="emphasis">LEARN MORE!</a> */}
+            <a href='/learn-more' className="emphasis">LEARN MORE</a>
         </div>
-        <div id='videos-section-container'>
+        <div id='videos-section-container' className="section-container">
+            <div id='videos-section-container-top-ellipse' className="ellipse"></div>
             <div id='videos-items-container'>
                 <div className="video">
-                    Video 1
+                    <video controls={false} autoPlay loop>
+                        <source src="/public/assets/videos/video1.mp4" type="video/mp4" />
+                    </video>
                 </div>
                 <div className="video">
-                    Video 2
+                    <video controls={false} autoPlay loop>
+                        <source src="/public/assets/videos/video1.mp4" type="video/mp4" />
+                    </video>
                 </div>
             </div>
             <p>COMING SOON</p>
+            <div id='videos-section-container-bottom-ellipse' className="ellipse"></div>
         </div>
-        <div id='blog-section-container'>
+        <div id='blog-section-container' className="section-container">
             <h2>WHY DOES COMMUNITY MATTER?</h2>
             <p>Increase your knowledge on the benefits of spirtiual commnity by following our monthyly blog.</p>
             <div id='blog-items-container'>
