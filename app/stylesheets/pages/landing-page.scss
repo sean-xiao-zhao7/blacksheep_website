@@ -51,11 +51,11 @@
             #videos-items-container {
                 display: grid;
                 grid-template-columns: repeat(2, max-content);
-                grid-column-gap: 2rem;
+                grid-column-gap: 5rem;
                 z-index: 2;
 
                 video {
-                    width: 20rem;
+                    width: 30rem;
                     height: auto;
                 }
             }
