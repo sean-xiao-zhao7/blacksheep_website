@@ -1,9 +1,11 @@
+import { Link } from "react-router";
+
 export default function LandingPage() {
     return <main id='landing-page-container'>
         <div className="intro-container">
             <h1>We all need supportive community.<br /><br />
                 If you live in the Mississauga area, get connected today!</h1>
-            <a href='/learn-more' className="emphasis">LEARN MORE</a>
+            <Link to='/learn-more' className="emphasis">LEARN MORE</Link>
         </div>
         <div id='videos-section-container' className="section-container">
             <div id='videos-section-container-top-ellipse' className="ellipse"></div>

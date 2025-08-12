@@ -1,9 +1,11 @@
+import { Link } from "react-router";
 import Footer from "./Footer";
 
 export default function MainLayout(props: React.PropsWithChildren) {
     return <div id='main-layout-container'>
-        <div id='header-banner'>
+        <Link to='/'><div id='header-banner'>
         </div>
+        </Link>
         {props.children}
         <Footer />
     </div>

@@ -1,0 +1,16 @@
+@use '../colors/colors' as colors;
+
+.text-page-container {
+    background-color: colors.$main-yellow;
+    color: black;
+    padding: 5rem 10rem;
+
+    h1 {
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    p {
+        font-size: 1.6rem;
+    }
+}
