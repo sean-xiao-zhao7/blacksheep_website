@@ -98,10 +98,20 @@
                 display: flex;
                 flex-direction: grid;
                 grid-template-columns: repeat(3, max-content);
-                grid-column-gap: 2rem;
+                grid-column-gap: 2rem;            
 
-                h3 {
-                    font-size: 1.6rem;
+                .blog-item {
+                    h3 {
+                        font-size: 1.6rem;
+                    }
+
+                    img {
+                        height: 20rem;
+                        width: 30rem;
+                        object-fit: cover;
+                        object-position: center;
+                        border: solid 3px colors.$main-blue;
+                    }
                 }
             }
         }
