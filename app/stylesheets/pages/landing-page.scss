@@ -14,6 +14,14 @@
         text-align: center;
     }
 
+    h1 {
+        font-size: 2.2rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
     .intro-container {
         padding: 3rem;
         text-align: center;
@@ -53,7 +61,8 @@
             }
 
             p {
-                font-size: 3rem;
+                font-size: 2rem;
+                color: white;
             }
 
             .ellipse {
@@ -71,7 +80,7 @@
                 &#videos-section-container-bottom-ellipse {
                     background-color: colors.$main-yellow;
                     border-radius: 100% 100% 0 0;
-                    bottom: -8rem;                    
+                    bottom: -7rem;
                 }
             }
         }
@@ -79,10 +88,21 @@
         &#blog-section-container {
             background-color: colors.$main-yellow;
             z-index: 2;
+            padding: 0 0 2rem 0;
 
             p {
-                font-size: 2.2rem;
-                color: white;
+                font-size: 1.8rem;
+            }
+
+            #blog-items-container {
+                display: flex;
+                flex-direction: grid;
+                grid-template-columns: repeat(3, max-content);
+                grid-column-gap: 2rem;
+
+                h3 {
+                    font-size: 1.6rem;
+                }
             }
         }
     }
