@@ -1,8 +1,10 @@
 export default function LandingPage() {
     return <main id='landing-page-container'>
-        <h1>We all need supportive community.<br />
-            If you live in the Mississauga area, get connected today!</h1>
-        <p>LEARN MORE!</p>
+        <div className="intro-container">
+            <h1>We all need supportive community.<br />
+                If you live in the Mississauga area, get connected today!</h1>
+            {/* <a href='/learn-more' className="emphasis">LEARN MORE!</a> */}
+        </div>
         <div id='videos-section-container'>
             <div id='videos-items-container'>
                 <div className="video">
@@ -12,7 +14,7 @@ export default function LandingPage() {
                     Video 2
                 </div>
             </div>
-            <h2>COMING SOON</h2>
+            <p>COMING SOON</p>
         </div>
         <div id='blog-section-container'>
             <h2>WHY DOES COMMUNITY MATTER?</h2>
@@ -25,5 +27,5 @@ export default function LandingPage() {
                 <div className="blog-item"><h3>A COMMENTARY ON MERCY</h3></div>
             </div>
         </div>
-    </main>
+    </main >
 }
