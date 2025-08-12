@@ -22,8 +22,8 @@
             text-decoration: none;
             font-size: 2rem;
             color: black;
-            font-weight: bold;   
-            margin-top: 2rem;         
+            font-weight: bold;
+            margin-top: 3rem;
             display: block;
         }
     }
@@ -38,7 +38,7 @@
             background-color: colors.$main-orange;
             position: relative;
             margin-top: 7rem;
-            padding-bottom: 20rem;
+            padding-bottom: 10rem;
 
             #videos-items-container {
                 display: grid;
@@ -71,13 +71,14 @@
                 &#videos-section-container-bottom-ellipse {
                     background-color: colors.$main-yellow;
                     border-radius: 100% 100% 0 0;
-                    bottom: 0;
+                    bottom: -8rem;                    
                 }
             }
         }
 
         &#blog-section-container {
             background-color: colors.$main-yellow;
+            z-index: 2;
 
             p {
                 font-size: 2.2rem;

@@ -1,7 +1,7 @@
 export default function LandingPage() {
     return <main id='landing-page-container'>
         <div className="intro-container">
-            <h1>We all need supportive community.<br />
+            <h1>We all need supportive community.<br /><br />
                 If you live in the Mississauga area, get connected today!</h1>
             <a href='/learn-more' className="emphasis">LEARN MORE</a>
         </div>
