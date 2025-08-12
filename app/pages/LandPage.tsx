@@ -9,13 +9,13 @@ export default function LandingPage() {
             <div id='videos-section-container-top-ellipse' className="ellipse"></div>
             <div id='videos-items-container'>
                 <div className="video">
-                    <video controls={false} autoPlay loop>
+                    <video loop autoPlay muted>
                         <source src="/public/assets/videos/video1.mp4" type="video/mp4" />
                     </video>
                 </div>
                 <div className="video">
-                    <video controls={false} autoPlay loop>
-                        <source src="/public/assets/videos/video1.mp4" type="video/mp4" />
+                    <video loop autoPlay muted>
+                        <source src="/public/assets/videos/video2.mp4" type="video/mp4" />
                     </video>
                 </div>
             </div>
