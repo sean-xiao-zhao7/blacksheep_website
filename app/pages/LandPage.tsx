@@ -32,7 +32,7 @@ export default function LandingPage() {
                     <img src='/public/assets/images/plurality_in_biblical_oneness.png' alt='mercy' />
                     <h3>PLURALITY IN BIBLICAL ONENESS</h3>
                 </div>
-                <div className="blog-item"><img src='/public/assets/images/the_art_of_storytelling.png' alt='oneness' /><h3>THE ART OF STORYTELLING</h3></div>
+                <div className="blog-item"><img src='/public/assets/images/the_art_of_storytelling2.png' alt='oneness' /><h3>THE ART OF STORYTELLING</h3></div>
                 <div className="blog-item"><img src='/public/assets/images/commentary_on_mercy.jpg' alt='art' /><h3>A COMMENTARY ON MERCY</h3></div>
             </div>
         </div>
