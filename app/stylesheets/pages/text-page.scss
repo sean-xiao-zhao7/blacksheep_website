@@ -1,7 +1,7 @@
 @use '../colors/colors' as colors;
 
 .text-page-container {
-    background-color: colors.$main-yellow;
+    background-color: colors.$text-yellow;
     color: black;
     padding: 5rem 10rem;
 
@@ -12,5 +12,20 @@
 
     p {
         font-size: 1.6rem;
+    }
+
+    .align-right {
+        text-align: right;
+    }
+
+    .img-container {
+        width: 100%;
+        text-align: center;
+
+        img {
+            object-fit: cover;
+            height: 10rem;
+            margin-top: 2rem;
+        }
     }
 }

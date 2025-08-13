@@ -1,16 +1,69 @@
 export default function PluralityInBiblicalOnenessPage() {
     return <div className='text-page-container'>
         <h1>Plurality in Biblical Oneness</h1>
+        <div className='img-container'>
+            <img src='/public/assets/images/plurality_in_biblical_oneness.png' alt='mercy' />
+        </div>
         <div>
-            <p>We all need supportive community.</p>
-            <p>Call, text, or meet with a Christian faith-based community leader in the Mississauga area today.</p>
-            <p>We know it isn't easy meeting people, and the alternative poses just as many problems. Isolation has never helped anyone. Yet, there are tons of communities out there just ready and willing to welcome us, and so many people in search of just that!</p>
-            <p>Blacksheep is a way to connect with them.</p>
-            <p>We gather the bare minimum of information about you (not even a profile picture!) and connect you to community groups, not based on preference, culture, or any other variable other than 'they're literally right next to you!'</p>
-            <p>Only after connecting with the first community, if you find that they're not really your cup of tea, only then can you dismiss that community from your search and then the system match you with the next nearest community near you.</p>
-            <p>Instead of a 'swipe left' culture where people give up on you without ever having the chance to actually meet you, this changes the entire game!</p>
-            <p>But we're not a dating app, we're simply giving you an introduction to new people. The possibilities of what could happen</p>
-            <p>Coming Soon!</p>
+            <p>I want to show you something awesome today that I believe is often overlooked in Scripture:
+            </p>
+            <div className="align-right">
+                <p>My sheep (plurality in oneness) listen to my voice; I know them (plurality in oneness), and they (plurality in oneness) follow me. I give them (plurality in oneness) eternal life, and they (plurality in oneness) shall never perish; no one will snatch them (plurality in oneness) out of my hand. My Father, who has given them (plurality in oneness) to me, is greater than all; no one can snatch them (plurality in oneness) out of my Father’s hand. I and the Father are one” (plurality in oneness).
+                </p>
+                <p>Again, his Jewish opponents (plurality in oneness) picked up stones to stone him, but Jesus said to them, (plurality in oneness) “I have shown you many good works (plurality of action) from the Father. (Plurality of source: Jesus along with His Father) For which of these do you stone me?”
+                </p>
+                <p>“We (plurality in oneness) are not stoning you for any good work,” they (plurality in oneness) replied, “but for blasphemy, because you, a mere man, claim to be God.” (for suggesting plurality in God’s oneness with himself).
+                </p>
+                <p>Jesus answered them, (plurality in oneness) “Is it not written in your (plurality in oneness) Law, ‘I have said you (altogether: plurality in oneness) are “gods”’? (plurality in oneness) If he called them (plurality in oneness) ‘gods,’ (plurality in oneness) to whom the word of God came—and Scripture cannot be set aside— what about the one whom the Father set apart as his very own and sent into the world? (suggesting plurality in oneness with God and himself.) Why then do you (plurality in oneness) accuse me of blasphemy because I said, ‘I am God’s Son’? (For suggesting plurality of God with himself).
+                </p>
+                <p>Do not believe me unless I do the works of my Father. (plurality of oneness in action) But if I do them (plurality in actions), even though you (plurality in oneness) do not believe me, (and His plurality in oneness) believe the works (plurality in actions), that you may know and understand that the Father is in me, and I in the Father.” (plurality in oneness)
+                </p>
+            </div>
+            <p>John 10:27-38
+            </p>
+            <p>I recently met a man who thought that the only god that existed in this lifetime was himself. What’s worse, he thought this belief was biblical from the few out-of-context verses he rattled off.
+            </p>
+            <p>I felt sympathy for his misunderstanding – not out of pity for his beliefs, but because of what his entire belief system is bound to entail for his life.
+            </p>
+            <p>He described no need to be part of a fellowship of believers (I say “fellowship of believers” because the action of attending “church” today can still be carried out with singularity of intent; i.e attending and not connecting with other believers in any deeper more vulnerable way, singular in intent to go ‘offer my attendance to God and leave’, and with no missional focus on sharing our faith with others, etc).
+            </p>
+            <p>It appears that when we get the triune nature of God incorrect, it inevitably leads to getting several other things wrong about God’s intent for our lives.
+            </p>
+            <p>God is not revealed to us in Scripture as ‘One’ in the sense of singularity. He is, and always has been, ‘three in one’ – Father, Son, and Spirit – altogether divinely as One God. It’s not an easy concept to comprehend, just like we can find coming together in our own families and communities often challenging, but our best reflection of His image is when we learn to walk in healthy community.
+            </p>
+            <p>And we seem to somewhat already know this truth by nature.</p>
+            <p>It’s the reason why people not only come from families, but then ascend to having families of their own. But imagine the awful mess we can make of even something so sacred as family if we fail to have a right understanding and reflection of what we ought to aspire to if we don’t have a clear example of what it should look like.
+            </p>
+            <p>Triunity is apparent in everything that also springs from this very framework like neighborhoods, communities, cities, countries, and in the world at large.
+            </p>
+            <p>It’s inherent not only in our very pursuit for family, but also seen even through the friendships we pursue – our ‘family of choice’.
+            </p>
+            <p>Even those who have experienced brokenness in their familial or friendship relationships don’t often cast off all people altogether but instead have very specific standards for the sort of people they will choose to engage with.
+            </p>
+            <p>In fact, I’d even go so far as to say that the real plight of the homeless and beggarly is not that they need our money or financial generosity (even though both of us – asker and giver – might arrive at this shortsighted yet albeit necessary conclusion), the real downfall of their destitution is a circumstance, whether mental, physical, or spiritual, in their inability to be part of – or sustain – healthy community, whether due to a lack of access or personal desire (through hurts, poor habits, or unhealthy hangups)
+            </p>
+            <p>So, how does knowing that God Himself is a perfect community change the way we view our own identities and the focus of our missional intent?
+            </p>
+            <p>Well, for starters, we might begin to see God’s desire for our churches to be more devotedly involved in reaching those who lack a healthy, supportive community, whether or not they can properly assess the value in it correctly or not.
+            </p>
+            <p>We might also begin to see the unthoughtful fruitlessness of entire fellowships who set out to lead a flock while only engaging in a missional focus one week out of the year.
+            </p>
+            <p>Imagine if our experience of God was only a once-a-year event in our lives, and then never again until we went to be with Him in eternity? Do you think any of us could endure in this journey?
+            </p>
+            <p>Or worst, what if we never knew of or developed a lens for beholding the loving faithfulness of a God who not only so highly values community, but tells us, _”wherever two or three of us are gathered in His name, I am there in your midst”?_ – Matt 18:20. Would you still even see any value in meeting with others for this purpose?
+            </p>
+            <p>It really changes the perceptions we might have of believing that we can connect with the marginalized once a year or every few months, and only from a safe enough distance so as to not really take upon our own shoulders the burdens of those who are desperately in need, (Gal 6:2) and believe ourselves to be agents of real transformative change.
+            </p>
+            <p>I don’t say this at all to condemn anyone’s walk, but instead to challenge us to see that every time we profess to want to see, _’God’s kingdom come; on Earth as it is in heaven’_ this is a very foundational tenet of what we’re professing: that we would like to see the kind of love that makes for God’s eternal triune community in heaven to be made manifest here on Earth, and by so doing, we’d experience something of the majesty of heaven right here, right now.
+            </p>
+            <p>Of course, this takes wisdom, prayer, understanding, and personal growth, and God knows this. That’s why He’s welcomes us into ‘His’ holy triune community with Himself and others through the shedding of Jesus blood for our sins, reconciling us to God, and offering to us grace (undeserved favour), and forgiveness (the pardoning of our imperfections), and a love that none of us has done anything to deserve.
+            </p>
+            <p>This very experience is the catalyst that should drive us onward towards those whom we do not believe deserve it, who even at times do the very things to hinder and offend it – like we do – and yet, He’s never given up on us.
+            </p>
+            <p>So, I challenge you that as you reflect on the nature of what God’s holy eternal triune community might look like, that from the outflow of that revelation, it leads us all to be just a little bit more characteristic of the ambassadors we were called and created to be.
+            </p>
+            <p>Is it any wonder why I can’t seem to cease from imploring you to get connected to healthy loving community today!
+            </p>
         </div>
     </div>
 }
