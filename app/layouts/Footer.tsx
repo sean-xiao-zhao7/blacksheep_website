@@ -1,9 +1,11 @@
+import { Link } from "react-router";
+
 export default function Footer() {
     return <footer>
         <div id='left'>
             <h2>LEGAL</h2>
-            <p>TERMS & CONDITIONS</p>
-            <p>PRIVACY POLICY</p>
+            <p><Link to='/terms'>TERMS & CONDITIONS</Link></p>
+            <p><Link to='/privacy'>PRIVACY POLICY</Link></p>
             <p>&copy; 2025 BLACKSHEEP</p>
         </div>
         <div id='right'>

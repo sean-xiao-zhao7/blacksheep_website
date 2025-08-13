@@ -26,7 +26,7 @@ export default function LandingPage() {
         </div>
         <div id='blog-section-container' className="section-container">
             <h2>WHY DOES COMMUNITY MATTER?</h2>
-            <p>Increase your knowledge on the benefits of spirtiual commnity by following our monthyly blog.</p>
+            <p>Increase your knowledge on the benefits of spirtiual commnity by following our monthly blog.</p>
             <div id='blog-items-container'>
                 <div className="blog-item">
                     <img src='/public/assets/images/plurality_in_biblical_oneness.png' alt='mercy' />
