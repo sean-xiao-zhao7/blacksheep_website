@@ -2,7 +2,7 @@ export default function PluralityInBiblicalOnenessPage() {
     return <div className='text-page-container'>
         <h1>Plurality in Biblical Oneness</h1>
         <div className='img-container'>
-            <img src='/public/assets/images/plurality_in_biblical_oneness.png' alt='mercy' />
+            <img src='/assets/images/plurality_in_biblical_oneness.png' alt='mercy' />
         </div>
         <div>
             <p>I want to show you something awesome today that I believe is often overlooked in Scripture:

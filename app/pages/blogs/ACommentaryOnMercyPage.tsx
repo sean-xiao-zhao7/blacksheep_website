@@ -2,7 +2,7 @@ export default function ACommentaryOnMercyPage() {
     return <div className='text-page-container'>
         <h1>A Commentary on Mercy</h1>
         <div className='img-container'>
-            <img src='/public/assets/images/commentary_on_mercy.jpg' alt='art' />
+            <img src='/assets/images/commentary_on_mercy.jpg' alt='art' />
         </div>
         <div>
             <p>In the Scriptures, Jesus’ teachings are narrated by stories, some of which are told using parables, and others that use real-life events.</p>

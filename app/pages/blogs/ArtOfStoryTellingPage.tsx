@@ -2,7 +2,7 @@ export default function ArtOfStoryTellingPage() {
     return <div className='text-page-container'>
         <h1>Art Of Story Telling</h1>
         <div className='img-container'>
-            <img src='/public/assets/images/the_art_of_storytelling2.png' alt='oneness' />
+            <img src='/assets/images/the_art_of_storytelling2.png' alt='oneness' />
         </div>
         <div>
             <p>To every story, there are five main structural features that every reader is guided through so that when you arrive at the end of the story – if the story is told well – it leaves you with an understanding of all that it carefully and masterfully has woven together as it directs you through the journey.

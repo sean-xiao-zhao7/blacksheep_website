@@ -12,12 +12,12 @@ export default function LandingPage() {
             <div id='videos-items-container'>
                 <div className="video">
                     <video loop autoPlay muted>
-                        <source src="/public/assets/videos/video1.mp4" type="video/mp4" />
+                        <source src="/assets/videos/video1.mp4" type="video/mp4" />
                     </video>
                 </div>
                 <div className="video">
                     <video loop autoPlay muted>
-                        <source src="/public/assets/videos/video2.mp4" type="video/mp4" />
+                        <source src="/assets/videos/video2.mp4" type="video/mp4" />
                     </video>
                 </div>
             </div>
@@ -30,19 +30,19 @@ export default function LandingPage() {
             <div id='blog-items-container'>
                 <div className="blog-item">
                     <Link to='/blogs/plurality'>
-                        <img src='/public/assets/images/plurality_in_biblical_oneness.png' alt='mercy' />
+                        <img src='/assets/images/plurality_in_biblical_oneness.png' alt='mercy' />
                         <h3>PLURALITY IN BIBLICAL ONENESS</h3>
                     </Link>
                 </div>
                 <div className="blog-item">
                     <Link to='/blogs/storytelling'>
-                        <img src='/public/assets/images/the_art_of_storytelling2.png' alt='oneness' />
+                        <img src='/assets/images/the_art_of_storytelling2.png' alt='oneness' />
                         <h3>THE ART OF STORYTELLING</h3>
                     </Link>
                 </div>
                 <div className="blog-item">
                     <Link to='/blogs/mercy'>
-                        <img src='/public/assets/images/commentary_on_mercy.jpg' alt='art' />
+                        <img src='/assets/images/commentary_on_mercy.jpg' alt='art' />
                         <h3>A COMMENTARY ON MERCY</h3>
                     </Link>
                 </div>
