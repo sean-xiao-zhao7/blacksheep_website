@@ -3,6 +3,12 @@
         background-image: url(/public/assets/images/main_header_banner.png);
         background-position: center center;
         background-size: 110% auto;
+        background-repeat: no-repeat;
         height: 35rem;
+
+        @media only screen and (max-width: 600px) {
+            height: 10rem;
+            width: 1s00%;
+        }
     }
 }

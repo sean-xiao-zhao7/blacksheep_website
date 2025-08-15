@@ -5,13 +5,21 @@
     color: black;
     padding: 5rem 10rem;
 
+    @media only screen and (max-width: 600px) {
+        padding: 2rem;
+    }
+
     h1 {
         text-align: center;
-        text-transform: uppercase;
+        text-transform: uppercase;        
     }
 
     p {
         font-size: 1.6rem;
+
+        @media only screen and (max-width: 600px) {
+            font-size: 1.4rem;
+        }
     }
 
     .align-right {
