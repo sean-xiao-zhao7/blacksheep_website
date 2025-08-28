@@ -110,6 +110,19 @@
                     bottom: -7rem;
                 }
             }
+
+            .store-badges-container {
+                display: grid;
+                grid-template-columns: repeat(2, max-content);
+                grid-column-gap: 2rem;
+
+                .single-store-badge {
+                    img {
+                        width: auto;
+                        height: 5rem;
+                    }
+                }
+            }
         }
 
         &#blog-section-container {

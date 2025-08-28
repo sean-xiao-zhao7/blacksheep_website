@@ -22,11 +22,19 @@ export default function LandingPage() {
                 </div>
             </div>
             <p>COMING SOON</p>
+            <div className="store-badges-container">
+                <div className="single-store-badge">
+                    <img src='/assets/images/apple_store_icon.svg' alt='apple store badge' />
+                </div>
+                <div className="single-store-badge">
+                    <img src='/assets/images/google_store_icon.png' alt='google play store badge' />
+                </div>
+            </div>
             <div id='videos-section-container-bottom-ellipse' className="ellipse"></div>
         </div>
         <div id='blog-section-container' className="section-container">
             <h2>WHY DOES COMMUNITY MATTER?</h2>
-            <p>Increase your knowledge on the benefits of spirtiual commnity by following our monthly blog.</p>
+            <p>Increase your knowledge on the benefits of spiritual community by following our monthly blog.</p>
             <div id='blog-items-container'>
                 <div className="blog-item">
                     <Link to='/blogs/plurality'>
