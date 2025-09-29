@@ -7,18 +7,16 @@ export default function PluralityInBiblicalOnenessPage() {
         <div>
             <p>I want to show you something awesome today that I believe is often overlooked in Scripture:
             </p>
-            <div className="align-right">
-                <p>My sheep (plurality in oneness) listen to my voice; I know them (plurality in oneness), and they (plurality in oneness) follow me. I give them (plurality in oneness) eternal life, and they (plurality in oneness) shall never perish; no one will snatch them (plurality in oneness) out of my hand. My Father, who has given them (plurality in oneness) to me, is greater than all; no one can snatch them (plurality in oneness) out of my Father’s hand. I and the Father are one” (plurality in oneness).
-                </p>
-                <p>Again, his Jewish opponents (plurality in oneness) picked up stones to stone him, but Jesus said to them, (plurality in oneness) “I have shown you many good works (plurality of action) from the Father. (Plurality of source: Jesus along with His Father) For which of these do you stone me?”
-                </p>
-                <p>“We (plurality in oneness) are not stoning you for any good work,” they (plurality in oneness) replied, “but for blasphemy, because you, a mere man, claim to be God.” (for suggesting plurality in God’s oneness with himself).
-                </p>
-                <p>Jesus answered them, (plurality in oneness) “Is it not written in your (plurality in oneness) Law, ‘I have said you (altogether: plurality in oneness) are “gods”’? (plurality in oneness) If he called them (plurality in oneness) ‘gods,’ (plurality in oneness) to whom the word of God came—and Scripture cannot be set aside— what about the one whom the Father set apart as his very own and sent into the world? (suggesting plurality in oneness with God and himself.) Why then do you (plurality in oneness) accuse me of blasphemy because I said, ‘I am God’s Son’? (For suggesting plurality of God with himself).
-                </p>
-                <p>Do not believe me unless I do the works of my Father. (plurality of oneness in action) But if I do them (plurality in actions), even though you (plurality in oneness) do not believe me, (and His plurality in oneness) believe the works (plurality in actions), that you may know and understand that the Father is in me, and I in the Father.” (plurality in oneness)
-                </p>
-            </div>
+            <p>My sheep (plurality in oneness) listen to my voice; I know them (plurality in oneness), and they (plurality in oneness) follow me. I give them (plurality in oneness) eternal life, and they (plurality in oneness) shall never perish; no one will snatch them (plurality in oneness) out of my hand. My Father, who has given them (plurality in oneness) to me, is greater than all; no one can snatch them (plurality in oneness) out of my Father’s hand. I and the Father are one” (plurality in oneness).
+            </p>
+            <p>Again, his Jewish opponents (plurality in oneness) picked up stones to stone him, but Jesus said to them, (plurality in oneness) “I have shown you many good works (plurality of action) from the Father. (Plurality of source: Jesus along with His Father) For which of these do you stone me?”
+            </p>
+            <p>“We (plurality in oneness) are not stoning you for any good work,” they (plurality in oneness) replied, “but for blasphemy, because you, a mere man, claim to be God.” (for suggesting plurality in God’s oneness with himself).
+            </p>
+            <p>Jesus answered them, (plurality in oneness) “Is it not written in your (plurality in oneness) Law, ‘I have said you (altogether: plurality in oneness) are “gods”’? (plurality in oneness) If he called them (plurality in oneness) ‘gods,’ (plurality in oneness) to whom the word of God came—and Scripture cannot be set aside— what about the one whom the Father set apart as his very own and sent into the world? (suggesting plurality in oneness with God and himself.) Why then do you (plurality in oneness) accuse me of blasphemy because I said, ‘I am God’s Son’? (For suggesting plurality of God with himself).
+            </p>
+            <p>Do not believe me unless I do the works of my Father. (plurality of oneness in action) But if I do them (plurality in actions), even though you (plurality in oneness) do not believe me, (and His plurality in oneness) believe the works (plurality in actions), that you may know and understand that the Father is in me, and I in the Father.” (plurality in oneness)
+            </p>
             <p>John 10:27-38
             </p>
             <p>I recently met a man who thought that the only god that existed in this lifetime was himself. What’s worse, he thought this belief was biblical from the few out-of-context verses he rattled off.
@@ -50,11 +48,11 @@ export default function PluralityInBiblicalOnenessPage() {
             </p>
             <p>Imagine if our experience of God was only a once-a-year event in our lives, and then never again until we went to be with Him in eternity? Do you think any of us could endure in this journey?
             </p>
-            <p>Or worst, what if we never knew of or developed a lens for beholding the loving faithfulness of a God who not only so highly values community, but tells us, _”wherever two or three of us are gathered in His name, I am there in your midst”?_ – Matt 18:20. Would you still even see any value in meeting with others for this purpose?
+            <p>Or worst, what if we never knew of or developed a lens for beholding the loving faithfulness of a God who not only so highly values community, but tells us, ”wherever two or three of us are gathered in His name, I am there in your midst”? – Matt 18:20. Would you still even see any value in meeting with others for this purpose?
             </p>
             <p>It really changes the perceptions we might have of believing that we can connect with the marginalized once a year or every few months, and only from a safe enough distance so as to not really take upon our own shoulders the burdens of those who are desperately in need, (Gal 6:2) and believe ourselves to be agents of real transformative change.
             </p>
-            <p>I don’t say this at all to condemn anyone’s walk, but instead to challenge us to see that every time we profess to want to see, _’God’s kingdom come; on Earth as it is in heaven’_ this is a very foundational tenet of what we’re professing: that we would like to see the kind of love that makes for God’s eternal triune community in heaven to be made manifest here on Earth, and by so doing, we’d experience something of the majesty of heaven right here, right now.
+            <p>I don’t say this at all to condemn anyone’s walk, but instead to challenge us to see that every time we profess to want to see, ’God’s kingdom come; on Earth as it is in heaven’ this is a very foundational tenet of what we’re professing: that we would like to see the kind of love that makes for God’s eternal triune community in heaven to be made manifest here on Earth, and by so doing, we’d experience something of the majesty of heaven right here, right now.
             </p>
             <p>Of course, this takes wisdom, prayer, understanding, and personal growth, and God knows this. That’s why He’s welcomes us into ‘His’ holy triune community with Himself and others through the shedding of Jesus blood for our sins, reconciling us to God, and offering to us grace (undeserved favour), and forgiveness (the pardoning of our imperfections), and a love that none of us has done anything to deserve.
             </p>
