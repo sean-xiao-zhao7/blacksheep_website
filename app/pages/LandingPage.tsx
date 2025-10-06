@@ -12,12 +12,7 @@ export default function LandingPage() {
             <div id='videos-items-container'>
                 <div className="video">
                     <video loop autoPlay muted>
-                        <source src="/assets/videos/video1.mp4" type="video/mp4" />
-                    </video>
-                </div>
-                <div className="video">
-                    <video loop autoPlay muted>
-                        <source src="/assets/videos/video2.mp4" type="video/mp4" />
+                        <source src="/assets/videos/new_video.mp4" type="video/mp4" />
                     </video>
                 </div>
             </div>
