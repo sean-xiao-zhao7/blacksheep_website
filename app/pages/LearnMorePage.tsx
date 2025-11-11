@@ -9,7 +9,7 @@ export default function LearnMore() {
             <p>We gather the bare minimum of information about you (not even a profile picture!) and connect you to community groups, not based on preference, culture, or any other variable other than 'they're literally right next to you!'</p>
             <p>Only after connecting with the first community, if you find that they're not really your cup of tea, only then can you dismiss that community from your search and then the system match you with the next nearest community near you.</p>
             <p>Instead of a 'swipe left' culture where people give up on you without ever having the chance to actually meet you, this changes the entire game!</p>
-            <p>But we're not a dating app, we're simply giving you an introduction to new people. The possibilities of what could happen</p>
+            <p>But we're not a dating app, we're simply giving you an introduction to new people near you. The possibilities of where that could lead are totally up to you.</p>
             <p>Coming Soon!</p>
         </div>
     </div>
