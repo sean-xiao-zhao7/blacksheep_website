@@ -8,7 +8,18 @@
 
         @media only screen and (max-width: 600px) {
             height: 10rem;
-            width: 1s00%;
+            width: 100%;
+        }
+    }
+
+    .social-media-list {
+        display: flex;
+        flex-direction: row;
+
+        a {
+            font-size: 2.5rem;
+            display: block;
+            padding: 0 .5rem;
         }
     }
 }

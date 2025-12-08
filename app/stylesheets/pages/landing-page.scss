@@ -89,6 +89,7 @@
                 video {
                     width: 40rem;
                     height: auto;
+                    border-radius: 15px;
 
                     @media only screen and (max-width: 600px) {
                         width: auto;
@@ -124,7 +125,8 @@
             .store-badges-container {
                 display: grid;
                 grid-template-columns: repeat(2, max-content);
-                grid-column-gap: 2rem;
+                // grid-column-gap: 2rem;
+                margin: 2rem 0;
 
                 .single-store-badge {
                     img {

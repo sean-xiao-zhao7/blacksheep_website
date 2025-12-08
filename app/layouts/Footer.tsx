@@ -1,5 +1,8 @@
 import { Link } from "react-router";
 
+import { faLinkedin, faFacebook, faInstagram, faYoutube } from "@fortawesome/free-brands-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 export default function Footer() {
     return <footer>
         <div id='left'>
@@ -12,6 +15,12 @@ export default function Footer() {
             <h2>CONTACT US</h2>
             {/* <p>SOCIAL MEDIA</p> */}
             <p>contact.us.blacksheep@gmail.com</p>
+            <div className="social-media-list">
+                <a href='https://www.linkedin.com/in/blacksheep-app/' target="_blank"><FontAwesomeIcon icon={faLinkedin} /></a>
+                <a href='https://www.facebook.com/TheBlackSheepApp' target="_blank"><FontAwesomeIcon icon={faFacebook} /></a>
+                <a href='https://www.instagram.com/blacksheep.app/' target="_blank"><FontAwesomeIcon icon={faInstagram} /></a>
+                <a href='https://www.youtube.com/@TheBlackSheepApp' target="_blank"><FontAwesomeIcon icon={faYoutube} /></a>
+            </div>
         </div>
     </footer>
 }

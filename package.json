@@ -12,6 +12,8 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^7.1.0",
+    "@fortawesome/react-fontawesome": "^3.1.1",
     "@react-router/node": "^7.7.1",
     "@react-router/serve": "^7.7.1",
     "isbot": "^5.1.27",
