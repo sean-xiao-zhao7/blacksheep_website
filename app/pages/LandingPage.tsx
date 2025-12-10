@@ -8,7 +8,7 @@ export default function LandingPage() {
         <div className="intro-container">
             <h1>We all need supportive community.<br /><br />
                 If you live in the Mississauga area, get connected today!</h1>
-            <Link to='/learn-more' className="emphasis">LEARN MORE</Link>
+            <Link to='/learn-more' className="emphasis">Learn More</Link>
         </div>
         <div id='videos-section-container' className="section-container">
             <div id='videos-section-container-top-ellipse' className="ellipse"></div>
