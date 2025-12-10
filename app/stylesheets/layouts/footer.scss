@@ -1,11 +1,13 @@
 footer {
-    padding: 5rem 10rem;
+    padding: 7rem 10rem;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 
     @media only screen and (max-width: 600px) {
         padding: 2rem;
         flex-direction: column;
+        align-items: normal;
     }
 
     h2 {
@@ -37,5 +39,18 @@ footer {
 
     .social-media-list a:last-child {
         padding-right: 0 !important;
+    }
+
+    .store-badges-container {
+        text-align: center;
+
+        @media only screen and (max-width: 600px) {
+            text-align: left;
+        }
+
+        img.footer-sheep-icon {
+            height: 8rem;
+            border-radius: 15px;
+        }
     }
 }

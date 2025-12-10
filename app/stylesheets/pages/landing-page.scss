@@ -75,6 +75,7 @@
 
         &#videos-section-container {
             background-color: colors.$main-orange;
+            background: linear-gradient(to right, colors.$main-orange, #f4cc33, colors.$main-orange);
             position: relative;
             margin-top: 7rem;
             padding-bottom: 10rem;
@@ -87,6 +88,7 @@
                     width: 40rem;
                     height: auto;
                     border-radius: 15px;
+                    box-shadow: 0px 2px 5px 1px #747474;
 
                     @media only screen and (max-width: 600px) {
                         width: auto;
@@ -108,6 +110,7 @@
 
                 &#videos-section-container-top-ellipse {
                     background-color: colors.$main-orange;
+                    background: linear-gradient(to right, colors.$main-orange, #f4cc33, colors.$main-orange);
                     border-radius: 100% 100% 0 0;
                     top: -7rem;
                     box-shadow: 0px -3px 5px 1px rgb(229 214 0);
@@ -115,6 +118,7 @@
 
                 &#videos-section-container-bottom-ellipse {
                     background-color: colors.$main-yellow;
+                    background: linear-gradient(to right, colors.$main-yellow, #efef00, colors.$main-yellow);
                     border-radius: 100% 100% 0 0;
                     bottom: -7rem;
                     box-shadow: 0px -3px 5px 1px #f29900;
@@ -146,11 +150,13 @@
 
         &#blog-section-container {
             background-color: colors.$main-yellow;
+            background: linear-gradient(to right, colors.$main-yellow, #efef00, colors.$main-yellow);
             z-index: 2;
-            padding: 0 0 2rem 0;
+            padding: 0 0 5rem 0;
 
             p {
-                font-size: 1.8rem;
+                font-size: 2rem;
+                font-weight: 600;
 
                 @media only screen and (max-width: 600px) {
                     font-size: 1.4rem;
@@ -182,7 +188,12 @@
                         width: 30rem;
                         object-fit: cover;
                         object-position: center;
-                        border: solid 3px colors.$main-blue;
+                        border: solid 5px colors.$main-blue;
+                        border-radius: 10px;
+
+                        &:hover {
+                            border-color: colors.$main-orange;
+                        }
 
                         @media only screen and (max-width: 600px) {
                             width: 80vw;

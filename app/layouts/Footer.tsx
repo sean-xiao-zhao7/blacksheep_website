@@ -11,6 +11,15 @@ export default function Footer() {
             <p><Link to='/privacy'>PRIVACY POLICY</Link></p>
             <p>&copy; 2025 BLACKSHEEP</p>
         </div>
+        <div className="store-badges-container">
+            <img src='/assets/images/sheep_with_text160x160.png' alt='sheep icon' className="footer-sheep-icon" />
+            <div className="single-store-badge">
+                <a target="_blank" href='https://apps.apple.com/us/app/blacksheep-community/id6755053312'><img src='/assets/images/apple_store_icon.svg' alt='apple store badge' /></a>
+            </div>
+            {/* <div className="single-store-badge">
+                    <img src='/assets/images/google_store_icon.png' alt='google play store badge' />
+                </div> */}
+        </div>
         <div id='right'>
             <h2>CONTACT US</h2>
             {/* <p>SOCIAL MEDIA</p> */}
