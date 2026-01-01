@@ -1,3 +1,5 @@
+@use '../colors/colors.scss';
+
 footer {
     padding: 7rem 10rem;
     display: flex;
@@ -26,6 +28,42 @@ footer {
         }
     }
 
+    // middle
+    #middle {
+        text-align: center;
+
+        img.footer-sheep-icon {
+            height: 8rem;
+            border-radius: 15px;
+        }
+
+        .social-media-list a:last-child {
+            padding-right: 0 !important;
+        }
+
+        .store-badges-container {
+            display: grid;
+            grid-template-columns: repeat(2, max-content);
+            grid-column-gap: .5rem;
+            margin: 2rem 0;
+
+            .single-store-badge img {
+                width: auto;
+                height: 3rem;
+                border-radius: 14px;
+
+                @media only screen and (max-width: 600px) {
+                    height: 3rem;
+                }
+
+                &:hover {
+                    box-shadow: 0px 0px 0px 2px colors.$main-yellow;
+                }
+            }
+        }
+    }
+
+    // right
     #right {
         display: flex;
         flex-direction: column;
@@ -34,23 +72,6 @@ footer {
         @media only screen and (max-width: 600px) {
             align-items: flex-start;
             margin-top: 2rem;
-        }
-    }
-
-    .social-media-list a:last-child {
-        padding-right: 0 !important;
-    }
-
-    .store-badges-container {
-        text-align: center;
-
-        @media only screen and (max-width: 600px) {
-            text-align: left;
-        }
-
-        img.footer-sheep-icon {
-            height: 8rem;
-            border-radius: 15px;
         }
     }
 }

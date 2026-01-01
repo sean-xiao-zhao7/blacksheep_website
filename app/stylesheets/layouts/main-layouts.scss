@@ -1,4 +1,4 @@
-@import '../colors/colors';
+@use '../colors/colors.scss';
 
 #main-layout-container {
     #header-banner {
@@ -24,7 +24,7 @@
             padding: 0 .5rem;
 
             &:hover {
-                color: $main-yellow;
+                color: colors.$main-yellow;
             }
         }
     }

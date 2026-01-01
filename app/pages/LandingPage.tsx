@@ -23,9 +23,11 @@ export default function LandingPage() {
                 <div className="single-store-badge">
                     <a target="_blank" href='https://apps.apple.com/us/app/blacksheep-community/id6755053312'><img src='/assets/images/apple_store_icon.svg' alt='apple store badge' /></a>
                 </div>
-                {/* <div className="single-store-badge">
-                    <img src='/assets/images/google_store_icon.png' alt='google play store badge' />
-                </div> */}
+                <div className="single-store-badge">
+                    <a target='_blank' href='https://play.google.com/store/apps/details?id=com.blacksheep.app'>
+                        <img src='/assets/images/google_store_icon.png' alt='google play store badge' />
+                    </a>
+                </div>
             </div>
             <div className="social-media-list">
                 <a href='https://www.linkedin.com/in/blacksheep-app/' target="_blank"><FontAwesomeIcon icon={faLinkedin} /></a>
