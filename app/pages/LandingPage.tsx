@@ -38,25 +38,25 @@ export default function LandingPage() {
             <div id='videos-section-container-bottom-ellipse' className="ellipse"></div>
         </div>
         <div id='blog-section-container' className="section-container">
-            <h2>WHY DOES COMMUNITY MATTER?</h2>
+            <h2>Why does community matter?</h2>
             <p>Increase your knowledge on the benefits of spiritual community by following our monthly blog.</p>
             <div id='blog-items-container'>
                 <div className="blog-item">
                     <Link to='/blogs/plurality'>
                         <img src='/assets/images/plurality_in_biblical_oneness.png' alt='mercy' />
-                        <h3>PLURALITY IN BIBLICAL ONENESS</h3>
+                        <h3>Plurality in Biblical Oneness</h3>
                     </Link>
                 </div>
                 <div className="blog-item">
                     <Link to='/blogs/storytelling'>
                         <img src='/assets/images/the_art_of_storytelling2.png' alt='oneness' />
-                        <h3>THE ART OF STORYTELLING</h3>
+                        <h3>The Art of Storytelling</h3>
                     </Link>
                 </div>
                 <div className="blog-item">
                     <Link to='/blogs/mercy'>
                         <img src='/assets/images/commentary_on_mercy.jpg' alt='art' />
-                        <h3>A COMMENTARY ON MERCY</h3>
+                        <h3>A Commentary On Mercy</h3>
                     </Link>
                 </div>
             </div>

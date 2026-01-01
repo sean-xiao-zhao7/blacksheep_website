@@ -7,9 +7,9 @@ export default function Footer() {
     return <footer>
         <div id='left'>
             <h2>LEGAL</h2>
-            <p><Link to='/terms'>TERMS & CONDITIONS</Link></p>
-            <p><Link to='/privacy'>PRIVACY POLICY</Link></p>
-            <p>&copy; 2025 BLACKSHEEP</p>
+            <p><Link to='/terms'>Terms & Conditions</Link></p>
+            <p><Link to='/privacy'>Privay Policy</Link></p>
+            <p>&copy; 2025 BlackSheep</p>
         </div>
         <div id='middle'>
             <img src='/assets/images/sheep_with_text160x160.png' alt='sheep icon' className="footer-sheep-icon" />
@@ -26,8 +26,7 @@ export default function Footer() {
         </div>
         <div id='right'>
             <h2>CONTACT US</h2>
-            {/* <p>SOCIAL MEDIA</p> */}
-            <p>contact.us.blacksheep@gmail.com</p>
+            <p><a href='mailto:contact.us.blacksheep@gmail.com' target="_blank">contact.us.blacksheep@gmail.com</a></p>
             <div className="social-media-list">
                 <a href='https://www.linkedin.com/in/blacksheep-app/' target="_blank"><FontAwesomeIcon icon={faLinkedin} /></a>
                 <a href='https://www.facebook.com/TheBlackSheepApp' target="_blank"><FontAwesomeIcon icon={faFacebook} /></a>
