@@ -83,6 +83,57 @@ export default function TermsPage() {
             </p>
             <p>By email</p>
             <p>contact.us.blacksheep@gmail.com</p>
+
+            <h1>BlackSheep Child Safety & CSAE Standards</h1>
+            <p>Last updated: January 2025</p>
+            <p>
+                1. Zero-Tolerance Policy for Child Sexual Abuse and Exploitation (CSAE)</p><p>
+                BlackSheep has a zero-tolerance policy toward Child Sexual Abuse and Exploitation (CSAE). The use of the BlackSheep app to create, upload, distribute, request, promote, store, or facilitate any form of CSAE is strictly prohibited.
+                This includes, but is not limited to:</p><p>
+                •	Child Sexual Abuse Material (CSAM)</p><p>
+                •	Sexualized content involving minors</p><p>
+                •	Grooming, solicitation, or exploitation of minors</p><p>
+                •	Any behavior intended to harm, exploit, or endanger a child</p><p>
+                Any violation of this policy may result in immediate content removal, account suspension or termination, and referral to law enforcement where required.
+            </p><br /><p>
+                2. Scope and Applicability</p><p>
+                These standards apply to all users, content, interactions, and activities on the BlackSheep platform, including user-generated content, messages, media uploads, and profile information.
+                Use of the BlackSheep app constitutes agreement to comply with these standards.
+            </p><br /><p>
+                3. In-App Reporting & User Feedback Mechanism (Self-Certification)</p><p>
+                BlackSheep provides an in-app mechanism that allows users to:</p><p>
+                •	Report suspected CSAE or CSAM</p><p>
+                •	Submit safety concerns or policy violations</p><p>
+                •	Provide feedback related to child safety</p><p>
+                Reports can be submitted directly within the app and are reviewed by BlackSheep’s safety and moderation team.
+            </p><br /><p>
+                4. Handling of CSAM and CSAE Content (Self-Certification)</p><p>
+                Upon obtaining actual knowledge of CSAM or CSAE-related activity, BlackSheep will take appropriate and prompt action, which may include:</p><p>
+                •	Immediate removal of the offending content</p><p>
+                •	Suspension or termination of involved accounts</p><p>
+                •	Preservation of relevant data where legally required</p><p>
+                •	Escalation to appropriate authorities</p><p>
+                Actions are taken in accordance with these published standards and applicable laws.
+            </p><br /><p>
+                5. Compliance with Child Safety Laws & Mandatory Reporting (Self-Certification)</p><p>
+                BlackSheep complies with all applicable child safety laws and regulations.</p><p>
+                Where required by law, confirmed CSAM is reported to the National Center for Missing and Exploited Children (NCMEC) or the relevant regional authority. BlackSheep maintains internal processes to ensure lawful and timely reporting.
+            </p><br /><p>
+                6. Child Safety Point of Contact</p><p>
+                BlackSheep maintains a designated Child Safety Point of Contact to receive notifications related to CSAE, including communications from Google Play.
+                This representative is authorized to:</p><p>
+                •	Address CSAE enforcement actions</p><p>
+                •	Explain BlackSheep’s review and moderation procedures</p><p>
+                •	Take immediate action when required</p><p>
+                Contact: contact.us.blacksheep@gmail.com
+            </p><br /><p>
+                7. Enforcement
+                BlackSheep reserves the right to:</p><p>
+                •	Investigate suspected violations</p><p>
+                •	Enforce these standards at its sole discretion</p><p>
+                •	Cooperate with law enforcement and regulatory authorities</p><p>
+                Failure to comply with these standards may result in permanent loss of access to the BlackSheep app.
+            </p>
         </div>
     </div>
 }
