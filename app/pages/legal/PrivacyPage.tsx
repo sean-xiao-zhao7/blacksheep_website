@@ -1,5 +1,5 @@
 export default function PrivacyPage() {
-    return <div className='text-page-container'>
+    return <div className='text-page-container' id='landing-page-container'>
         <h1>BlackSheep Privacy Policy</h1>
         <div>
             <p>Last Updated: August 2025.</p>

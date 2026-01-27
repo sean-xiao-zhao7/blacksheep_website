@@ -1,5 +1,5 @@
 export default function TermsPage() {
-    return <div className='text-page-container'>
+    return <div className='text-page-container' id='landing-page-container'>
         <h1>Terms & Conditions</h1>
         <div>
             <p>The following terms of use agreement sets out your rights and obligations in respect of your use of the BlackSheep website and certain access controlled portions of the website and/or app, the "members-only area".

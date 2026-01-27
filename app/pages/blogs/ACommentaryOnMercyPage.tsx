@@ -1,5 +1,5 @@
 export default function ACommentaryOnMercyPage() {
-    return <div className='text-page-container'>
+    return <div className='text-page-container' id='landing-page-container'>
         <h1>A Commentary on Mercy</h1>
         <div className='img-container'>
             <img src='/assets/images/commentary_on_mercy.jpg' alt='art' />

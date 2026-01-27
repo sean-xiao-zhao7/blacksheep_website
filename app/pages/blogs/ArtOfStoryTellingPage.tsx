@@ -1,5 +1,5 @@
 export default function ArtOfStoryTellingPage() {
-    return <div className='text-page-container'>
+    return <div className='text-page-container' id='landing-page-container'>
         <h1>Art Of Story Telling</h1>
         <div className='img-container'>
             <img src='/assets/images/the_art_of_storytelling2.png' alt='oneness' />
